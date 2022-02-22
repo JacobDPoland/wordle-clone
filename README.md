@@ -1,4 +1,4 @@
-# Wordle - A worde puzzle game
+# Wordle - A worde puzzle game (Spanish edition)
 
 [![Website](https://img.shields.io/website?label=saminyasar%20🚀&name=hello&style=flat&url=https://saminyasar.netlify.app/)](https://saminyasar.netlify.app/)
 [![Facebook Follow](https://img.shields.io/badge/Facebook-Follow-brightgreen)](https://www.facebook.com/saminyasar004/)
